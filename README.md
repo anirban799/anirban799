@@ -11,7 +11,7 @@
 
 
 
-- :school: I am a `3rd Year Student` at [Micheal Madhusudan Memorial  College].
+- :school: I have completed BCA in 2024 at [Micheal Madhusudan Memorial  College].
   
 - :student: I’m currently learning `frontend development` and `Software Engineering`.
   
